@@ -11,6 +11,7 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
   - [Architecture Variants](#architecture-variants)
     - [Structure](#structure)
     - [Memory](#memory)
+    - [Attention](#attention)
   - [Surveys](#surveys)
 - [Applications](#applications)
   - [Natural Language Processing](#natural-language-processing)
@@ -152,8 +153,9 @@ A curated list of resources dedicated to recurrent neural networks (closely rela
   * Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher, "Ask Me Anything: Dynamic Memory Networks for Natural Language Processing", arXiv:1506.07285
 
 ### Attention 
-* DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding [[Paper](）
-* Attention Is All You Need Ashish [[Paper]()
+* DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding [[Paper]]()
+* Attention Is All You Need Ashish [[Paper]]()
+
 ### Surveys
 * Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/pdf/nature14539.pdf), Nature 2015
 * Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, [LSTM: A Search Space Odyssey](http://arxiv.org/pdf/1503.04069), arXiv:1503.04069
