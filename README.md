@@ -167,6 +167,9 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls
 * Dynamic Memory Networks [[Paper](http://arxiv.org/abs/1506.07285)]
   * Ankit Kumar, Ozan Irsoy, Peter Ondruska, Mohit Iyyer, James Bradbury, Ishaan Gulrajani, Victor Zhong, Romain Paulus, Richard Socher, "Ask Me Anything: Dynamic Memory Networks for Natural Language Processing", arXiv:1506.07285
 
+### Attention 
+* DiSAN: Directional Self-Attention Network for RNN/CNN-free Language Understanding [[Paper](）
+* Attention Is All You Need Ashish [[Paper]()
 ### Surveys
 * Yann LeCun, Yoshua Bengio, and Geoffrey Hinton, [Deep Learning](http://www.nature.com/nature/journal/v521/n7553/pdf/nature14539.pdf), Nature 2015
 * Klaus Greff, Rupesh Kumar Srivastava, Jan Koutnik, Bas R. Steunebrink, Jurgen Schmidhuber, [LSTM: A Search Space Odyssey](http://arxiv.org/pdf/1503.04069), arXiv:1503.04069
@@ -187,7 +190,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls
 * Yoon Kim, Yacine Jernite, David Sontag, and Alexander M. Rush, *Character-Aware Neural Language Models*, arXiv:1508.06615 [[Paper](http://arxiv.org/pdf/1508.06615)]
 * Xingxing Zhang, Liang Lu, and Mirella Lapata, *Tree Recurrent Neural Networks with Application to Language Modeling*, arXiv:1511.00060 [[Paper](http://arxiv.org/pdf/1511.00060.pdf)]
 * Felix Hill, Antoine Bordes, Sumit Chopra, and Jason Weston, *The Goldilocks Principle: Reading children's books with explicit memory representations*, arXiv:1511.0230 [[Paper](http://arxiv.org/pdf/1511.02301.pdf)]
-
+* Julian Georg Zilly,Rupesh Kumar Srivastava,Jan Koutník,Jürgen Schmidhuber,Recurrent Highway Networks[[Paper](http://arxiv.org/pdf/1607.03474v5)
 
 #### Speech Recognition
 * Geoffrey Hinton, Li Deng, Dong Yu, George E. Dahl, Abdel-rahman Mohamed, Navdeep Jaitly, Andrew Senior, Vincent Vanhoucke, Patrick Nguyen, Tara N. Sainath, and Brian Kingsbury, *Deep Neural Networks for Acoustic Modeling in Speech Recognition*, IEEE Signam Processing Magazine 2012 [[Paper](http://cs224d.stanford.edu/papers/maas_paper.pdf)]
@@ -261,8 +264,8 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-rnn/pulls
 * Univ. Toronto [[paper](http://arxiv.org/abs/1502.04681)]
   * Nitish Srivastava, Elman Mansimov, Ruslan Salakhutdinov, *Unsupervised Learning of Video Representations using LSTMs*, arXiv:1502.04681 / ICML 2015
 * Univ. Cambridge [[paper](http://arxiv.org/abs/1511.06309)]
-  * Viorica Patraucean, Ankur Handa, Roberto Cipolla, *Spatio-temporal video autoencoder with differentiable memory*, arXiv:1511.06309
-
+* Viorica Patraucean, Ankur Handa, Roberto Cipolla, *Spatio-temporal video autoencoder with differentiable memory*, arXiv:1511.06309
+* Yinchong Yang,Denis Krompass,Volker Tresp,Tensor-Train Recurrent Neural Networks for Video Classification[[Paper]]()
 
 
 ### Multimodal (CV + NLP)
